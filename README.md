@@ -34,6 +34,17 @@ The **MERN Product Listing Site** is a **full-stack application** that allows us
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stripe/stripe-original.svg" height="50" alt="Stripe Payments (Future Scope)"/>
 </p>
 
+## ⚡ Major Challenges Faced  
+### ❌ **Managing Product Updates Efficiently**  
+- **Issue:** Handling updates without unnecessary re-renders.
+- **Solution:** Optimized React state management and API calls.
+
+### ❌ **Ensuring Secure Product Deletion**  
+- **Issue:** Preventing accidental deletions.
+- **Solution:** Added confirmation pop-ups before deletion.
+
+
+
 ## 📷 Screenshots  
 ### 🔹 Home Page  
 ![Home Screenshot](https://via.placeholder.com/800x400?text=Home+Page)  
@@ -75,18 +86,6 @@ MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
 ```
 
-## ⚡ Major Challenges Faced  
-### ❌ **Managing Product Updates Efficiently**  
-- **Issue:** Handling updates without unnecessary re-renders.
-- **Solution:** Optimized React state management and API calls.
-
-### ❌ **Ensuring Secure Product Deletion**  
-- **Issue:** Preventing accidental deletions.
-- **Solution:** Added confirmation pop-ups before deletion.
-
-### ❌ **Authentication & User Access Control**  
-- **Issue:** Restricting unauthorized actions.
-- **Solution:** Implemented **role-based authentication (RBAC)**.
 
 ## 🤝 Contributing  
 Contributions are welcome! To contribute:  
