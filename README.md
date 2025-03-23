@@ -8,8 +8,7 @@ The **MERN Product Listing Site** is a **full-stack application** that allows us
 
 ## 🔥 Features  
 ✅ **Add Products** – Upload product name, image, and price  
-✅ **Update & Delete Products** – Modify or remove listings easily  
-✅ **User Authentication** – Secure login/signup with JWT  
+✅ **Update & Delete Products** – Modify or remove listings easily   
 ✅ **Responsive UI** – Optimized for mobile and desktop  
 ✅ **Future Scope** – Payments and online retail store expansion  
 
